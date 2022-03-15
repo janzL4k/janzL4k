@@ -1,21 +1,16 @@
 <h1 align="center">Hai , saya Ibjan Syarif Hidayatullah</h1>
 <h3 align="center">Pengembang frontend yang bersemangat dari Lombok</h3>
-     <img src="https://images.app.goo.gl/8Ugj185qkNvLeVh76" alt="">
+<img src="https://miro.medium.com/max/680/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="">
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=janzl4k&label=Profile%20views&color=0e75b6&style=flat" alt="janzl4k" /> </p>
 
 <p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janzl4k" alt="janzl4k" />< /a> </p>
-
-- Saya sedang belajar **Laravel**
-
-- Saya ingin berkolaborasi di **https://www.linkedin.com/in/ibjansyarif-h-bb7a79206/**
 
 - Cara menghubungi saya **ibjansyarifhidayatullah240101@gmail.com**
 
 <h3 align="left">Hubungi saya:</h3>
 <p align="left" >
 <a href="https://dev.to/jansfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/devto.svg" alt="jansfy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in /https://www.linkedin.com/in/ibjansyarif-h-bb7a79206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibjansyarif-h-bb7a79206/" height="30 " width="40" /></a>
 <a href="https://instagram.com/jansfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="jansfy" height="30" width="40" /></a>
 </p>
 
