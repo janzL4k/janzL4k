@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibjan Syarif Hidayatullah</h1>
 
-<h3 align="center">A passionate frontend developer from Lombok</h3>
+<h3 align="center">Lombok Dev</h3>
 <img src="https://miro.medium.com/max/680/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" height="10%" width="100%">
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
