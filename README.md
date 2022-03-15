@@ -1,7 +1,8 @@
-<img src="https://miro.medium.com/max/680/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" height="10%" width="100%">
 <h1 align="center">Hi 👋, I'm Ibjan Syarif Hidayatullah</h1>
 
 <h3 align="center">A passionate frontend developer from Lombok</h3>
+<img src="https://miro.medium.com/max/680/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" height="10%" width="100%">
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -16,8 +17,12 @@
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br/>
+
+<br/>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://dev.to/jansfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jansfy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibjansyarif-h-bb7a79206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibjansyarif" height="30" width="40" /></a>
 <a href="https://instagram.com/jansfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jansfy" height="30" width="40" /></a>
